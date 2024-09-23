@@ -7,6 +7,6 @@ public class Main {
 
         int n = scanner.nextInt();
 
-        System.out.println("Your score is " + n + " point.")
+        System.out.println("Your score is " + n + " point.");
     }
 }
