@@ -7,6 +7,6 @@ public class Main {
 
         int a = scanner.nextInt();
 
-        System.out.println(a*2 + 3)
+        System.out.println(a*2 + 3);
     }
 }
