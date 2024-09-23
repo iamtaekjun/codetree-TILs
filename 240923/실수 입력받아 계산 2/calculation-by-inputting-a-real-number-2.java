@@ -6,6 +6,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         double a = scanner.nextDouble();
-        System.out.printf("%.2f", a*1.5);
+        System.out.printf("%.2f", a + 1.5);
     }
 }
